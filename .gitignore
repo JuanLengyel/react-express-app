@@ -1,0 +1,3 @@
+# Node ignore file
+node_modules/
+dist/
